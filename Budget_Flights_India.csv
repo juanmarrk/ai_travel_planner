@@ -1,0 +1,217 @@
+From,To,Airline,Flight Number,Price (INR),Duration
+Mumbai,Delhi,SpiceJet,SP227,4212,2h 00m
+Mumbai,Delhi,Vistara,VI369,3672,2h 15m
+Mumbai,Delhi,Go First,GO931,3591,2h 00m
+Mumbai,Bangalore,SpiceJet,SP493,3030,1h 30m
+Mumbai,Bangalore,IndiGo,IN455,4447,1h 45m
+Mumbai,Bangalore,Air India,AI509,3167,1h 45m
+Mumbai,Chennai,Go First,GO163,3035,1h 30m
+Mumbai,Chennai,Vistara,VI504,3076,2h 00m
+Mumbai,Chennai,Vistara,VI655,4397,2h 15m
+Mumbai,Indore,SpiceJet,SP322,3915,1h 45m
+Mumbai,Indore,Air India,AI981,2786,2h 00m
+Mumbai,Indore,IndiGo,IN992,3975,1h 30m
+Mumbai,Vellore,Vistara,VI475,3377,1h 30m
+Mumbai,Vellore,IndiGo,IN368,4434,1h 30m
+Mumbai,Vellore,SpiceJet,SP993,3342,2h 30m
+Mumbai,Kolkata,IndiGo,IN762,3042,1h 30m
+Mumbai,Kolkata,SpiceJet,SP626,4267,2h 00m
+Mumbai,Kolkata,SpiceJet,SP946,3314,2h 00m
+Mumbai,Udaipur,Air India,AI378,3232,2h 00m
+Mumbai,Udaipur,IndiGo,IN575,2897,2h 00m
+Mumbai,Udaipur,Air India,AI378,2684,2h 15m
+Mumbai,Jaipur,IndiGo,IN879,3728,2h 00m
+Mumbai,Jaipur,Go First,GO774,2880,1h 30m
+Mumbai,Jaipur,Go First,GO348,4046,2h 15m
+Delhi,Mumbai,Vistara,VI790,2771,1h 30m
+Delhi,Mumbai,SpiceJet,SP716,4479,2h 00m
+Delhi,Mumbai,AirAsia,AI498,2737,1h 30m
+Delhi,Bangalore,Vistara,VI966,2606,1h 30m
+Delhi,Bangalore,Vistara,VI873,2598,2h 30m
+Delhi,Bangalore,Air India,AI730,4314,2h 00m
+Delhi,Chennai,IndiGo,IN480,4449,2h 00m
+Delhi,Chennai,Air India,AI227,3472,2h 15m
+Delhi,Chennai,Vistara,VI765,3481,2h 00m
+Delhi,Indore,Vistara,VI474,4460,2h 00m
+Delhi,Indore,Air India,AI471,3861,2h 00m
+Delhi,Indore,Air India,AI589,4233,1h 45m
+Delhi,Vellore,Air India,AI269,3757,1h 45m
+Delhi,Vellore,Air India,AI147,3868,2h 00m
+Delhi,Vellore,Vistara,VI893,4249,1h 30m
+Delhi,Kolkata,Air India,AI770,4251,1h 30m
+Delhi,Kolkata,SpiceJet,SP839,2652,1h 30m
+Delhi,Kolkata,AirAsia,AI381,3764,2h 15m
+Delhi,Udaipur,IndiGo,IN477,3556,2h 30m
+Delhi,Udaipur,Go First,GO580,4058,1h 30m
+Delhi,Udaipur,AirAsia,AI533,3703,1h 45m
+Delhi,Jaipur,IndiGo,IN731,3252,1h 30m
+Delhi,Jaipur,Air India,AI522,3563,1h 45m
+Delhi,Jaipur,IndiGo,IN521,2758,1h 30m
+Bangalore,Mumbai,Vistara,VI923,3294,2h 15m
+Bangalore,Mumbai,Air India,AI561,2801,1h 45m
+Bangalore,Mumbai,Go First,GO873,2765,2h 15m
+Bangalore,Delhi,Air India,AI820,3577,2h 00m
+Bangalore,Delhi,SpiceJet,SP658,2540,2h 00m
+Bangalore,Delhi,AirAsia,AI797,3010,2h 00m
+Bangalore,Chennai,Go First,GO560,2837,2h 00m
+Bangalore,Chennai,SpiceJet,SP137,3488,2h 00m
+Bangalore,Chennai,AirAsia,AI963,3737,1h 30m
+Bangalore,Indore,AirAsia,AI331,3311,2h 00m
+Bangalore,Indore,IndiGo,IN841,3057,1h 45m
+Bangalore,Indore,Go First,GO562,2955,1h 30m
+Bangalore,Vellore,Vistara,VI778,4473,1h 45m
+Bangalore,Vellore,SpiceJet,SP334,3802,1h 45m
+Bangalore,Vellore,SpiceJet,SP632,3075,2h 30m
+Bangalore,Kolkata,SpiceJet,SP728,4374,1h 45m
+Bangalore,Kolkata,SpiceJet,SP423,2822,2h 15m
+Bangalore,Kolkata,Vistara,VI109,3475,2h 00m
+Bangalore,Udaipur,SpiceJet,SP275,3689,2h 00m
+Bangalore,Udaipur,IndiGo,IN573,3337,2h 15m
+Bangalore,Udaipur,Air India,AI232,3628,2h 30m
+Bangalore,Jaipur,Vistara,VI183,3335,2h 00m
+Bangalore,Jaipur,Vistara,VI860,3778,2h 00m
+Bangalore,Jaipur,SpiceJet,SP121,4008,2h 30m
+Chennai,Mumbai,IndiGo,IN455,4336,1h 45m
+Chennai,Mumbai,IndiGo,IN395,2678,1h 30m
+Chennai,Mumbai,Vistara,VI115,3613,1h 30m
+Chennai,Delhi,AirAsia,AI100,4200,2h 00m
+Chennai,Delhi,AirAsia,AI879,2564,2h 30m
+Chennai,Delhi,Go First,GO822,2878,2h 00m
+Chennai,Bangalore,IndiGo,IN349,3306,2h 00m
+Chennai,Bangalore,Vistara,VI647,4480,1h 30m
+Chennai,Bangalore,Air India,AI750,3887,1h 45m
+Chennai,Indore,Air India,AI158,3723,1h 45m
+Chennai,Indore,Go First,GO780,4394,2h 15m
+Chennai,Indore,IndiGo,IN603,4280,1h 30m
+Chennai,Vellore,Vistara,VI196,4473,1h 30m
+Chennai,Vellore,Air India,AI845,4236,2h 15m
+Chennai,Vellore,Air India,AI737,4306,2h 00m
+Chennai,Kolkata,Go First,GO304,3816,2h 30m
+Chennai,Kolkata,SpiceJet,SP620,3400,1h 45m
+Chennai,Kolkata,IndiGo,IN721,4275,1h 45m
+Chennai,Udaipur,Go First,GO522,4059,2h 15m
+Chennai,Udaipur,Vistara,VI777,4320,1h 45m
+Chennai,Udaipur,Vistara,VI649,4354,2h 15m
+Chennai,Jaipur,IndiGo,IN149,2542,2h 30m
+Chennai,Jaipur,Air India,AI988,3315,2h 00m
+Chennai,Jaipur,Go First,GO309,3340,2h 00m
+Indore,Mumbai,SpiceJet,SP567,2952,2h 15m
+Indore,Mumbai,Air India,AI671,2727,2h 30m
+Indore,Mumbai,Air India,AI286,2865,2h 00m
+Indore,Delhi,IndiGo,IN742,2861,2h 30m
+Indore,Delhi,IndiGo,IN141,3316,1h 45m
+Indore,Delhi,Go First,GO753,3926,2h 00m
+Indore,Bangalore,AirAsia,AI951,3087,2h 00m
+Indore,Bangalore,AirAsia,AI751,3960,2h 30m
+Indore,Bangalore,Vistara,VI169,4222,2h 30m
+Indore,Chennai,SpiceJet,SP969,3631,2h 00m
+Indore,Chennai,AirAsia,AI462,3471,2h 00m
+Indore,Chennai,Vistara,VI525,3142,2h 00m
+Indore,Vellore,IndiGo,IN363,3113,1h 45m
+Indore,Vellore,Air India,AI122,3050,2h 30m
+Indore,Vellore,Go First,GO475,3780,1h 45m
+Indore,Kolkata,Vistara,VI674,3511,1h 30m
+Indore,Kolkata,IndiGo,IN462,3450,1h 45m
+Indore,Kolkata,IndiGo,IN193,3715,2h 15m
+Indore,Udaipur,Air India,AI557,3494,2h 00m
+Indore,Udaipur,Go First,GO692,4363,2h 30m
+Indore,Udaipur,SpiceJet,SP593,4373,1h 30m
+Indore,Jaipur,Go First,GO804,2880,2h 15m
+Indore,Jaipur,IndiGo,IN204,4182,1h 45m
+Indore,Jaipur,Vistara,VI598,4483,1h 45m
+Vellore,Mumbai,Air India,AI122,3191,2h 30m
+Vellore,Mumbai,Vistara,VI752,4039,1h 30m
+Vellore,Mumbai,Air India,AI551,4306,2h 30m
+Vellore,Delhi,Go First,GO140,2898,2h 30m
+Vellore,Delhi,Air India,AI324,3754,1h 45m
+Vellore,Delhi,Vistara,VI152,3438,1h 45m
+Vellore,Bangalore,SpiceJet,SP781,2749,1h 30m
+Vellore,Bangalore,SpiceJet,SP420,2829,2h 15m
+Vellore,Bangalore,IndiGo,IN976,3070,2h 30m
+Vellore,Chennai,Vistara,VI756,3282,2h 00m
+Vellore,Chennai,Vistara,VI576,3608,2h 15m
+Vellore,Chennai,AirAsia,AI425,4142,2h 15m
+Vellore,Indore,Vistara,VI197,4059,1h 45m
+Vellore,Indore,Vistara,VI966,4320,1h 30m
+Vellore,Indore,SpiceJet,SP576,2784,2h 00m
+Vellore,Kolkata,SpiceJet,SP568,3180,2h 00m
+Vellore,Kolkata,SpiceJet,SP620,3893,2h 00m
+Vellore,Kolkata,IndiGo,IN286,3446,2h 00m
+Vellore,Udaipur,Go First,GO868,2993,2h 15m
+Vellore,Udaipur,AirAsia,AI320,4298,1h 30m
+Vellore,Udaipur,IndiGo,IN740,4358,1h 45m
+Vellore,Jaipur,IndiGo,IN259,4229,1h 30m
+Vellore,Jaipur,Go First,GO893,3911,2h 00m
+Vellore,Jaipur,Vistara,VI674,3870,2h 15m
+Kolkata,Mumbai,SpiceJet,SP904,3249,1h 45m
+Kolkata,Mumbai,AirAsia,AI507,4369,1h 30m
+Kolkata,Mumbai,Vistara,VI597,2910,2h 30m
+Kolkata,Delhi,SpiceJet,SP763,2596,1h 45m
+Kolkata,Delhi,Vistara,VI293,3147,2h 30m
+Kolkata,Delhi,IndiGo,IN192,2725,2h 30m
+Kolkata,Bangalore,Air India,AI385,3110,2h 15m
+Kolkata,Bangalore,Air India,AI737,4368,2h 00m
+Kolkata,Bangalore,SpiceJet,SP618,4218,2h 30m
+Kolkata,Chennai,Vistara,VI506,4008,2h 00m
+Kolkata,Chennai,IndiGo,IN369,3224,1h 45m
+Kolkata,Chennai,Air India,AI913,2956,1h 30m
+Kolkata,Indore,Air India,AI630,2578,1h 30m
+Kolkata,Indore,Air India,AI880,2772,2h 00m
+Kolkata,Indore,Go First,GO688,4235,1h 30m
+Kolkata,Vellore,SpiceJet,SP464,2709,2h 30m
+Kolkata,Vellore,AirAsia,AI445,4077,1h 30m
+Kolkata,Vellore,Go First,GO662,4394,2h 30m
+Kolkata,Udaipur,Vistara,VI253,2700,2h 30m
+Kolkata,Udaipur,Air India,AI329,3301,1h 30m
+Kolkata,Udaipur,Go First,GO252,3991,2h 15m
+Kolkata,Jaipur,Vistara,VI971,2570,2h 00m
+Kolkata,Jaipur,Go First,GO360,4297,1h 30m
+Kolkata,Jaipur,Vistara,VI580,4104,1h 30m
+Udaipur,Mumbai,IndiGo,IN516,3440,2h 00m
+Udaipur,Mumbai,Go First,GO302,4217,2h 15m
+Udaipur,Mumbai,AirAsia,AI777,4097,2h 15m
+Udaipur,Delhi,IndiGo,IN415,2946,2h 00m
+Udaipur,Delhi,Air India,AI681,3022,1h 30m
+Udaipur,Delhi,AirAsia,AI938,4111,2h 00m
+Udaipur,Bangalore,AirAsia,AI535,3613,2h 30m
+Udaipur,Bangalore,Go First,GO782,3050,2h 15m
+Udaipur,Bangalore,Go First,GO572,4062,2h 30m
+Udaipur,Chennai,AirAsia,AI289,4030,2h 00m
+Udaipur,Chennai,Go First,GO296,3335,2h 15m
+Udaipur,Chennai,SpiceJet,SP997,2824,2h 15m
+Udaipur,Indore,IndiGo,IN403,3829,1h 30m
+Udaipur,Indore,SpiceJet,SP364,4204,1h 30m
+Udaipur,Indore,Vistara,VI341,4397,1h 30m
+Udaipur,Vellore,Vistara,VI662,2726,2h 00m
+Udaipur,Vellore,IndiGo,IN649,4006,2h 30m
+Udaipur,Vellore,Air India,AI192,2641,2h 30m
+Udaipur,Kolkata,Vistara,VI827,4190,2h 15m
+Udaipur,Kolkata,AirAsia,AI934,2891,2h 00m
+Udaipur,Kolkata,IndiGo,IN400,4438,2h 00m
+Udaipur,Jaipur,Air India,AI607,2664,1h 30m
+Udaipur,Jaipur,Air India,AI100,2925,2h 15m
+Udaipur,Jaipur,Air India,AI890,3629,2h 00m
+Jaipur,Mumbai,IndiGo,IN496,2593,2h 15m
+Jaipur,Mumbai,Air India,AI397,2707,1h 45m
+Jaipur,Mumbai,Vistara,VI326,4100,1h 45m
+Jaipur,Delhi,Air India,AI889,2553,2h 00m
+Jaipur,Delhi,Air India,AI328,3671,1h 45m
+Jaipur,Delhi,SpiceJet,SP953,2615,1h 45m
+Jaipur,Bangalore,AirAsia,AI591,4155,2h 15m
+Jaipur,Bangalore,SpiceJet,SP396,4170,2h 30m
+Jaipur,Bangalore,AirAsia,AI644,3666,2h 00m
+Jaipur,Chennai,AirAsia,AI570,4333,1h 30m
+Jaipur,Chennai,Vistara,VI600,3065,1h 30m
+Jaipur,Chennai,SpiceJet,SP447,4031,1h 45m
+Jaipur,Indore,IndiGo,IN171,4474,2h 00m
+Jaipur,Indore,Go First,GO200,4272,1h 30m
+Jaipur,Indore,Go First,GO873,2680,2h 15m
+Jaipur,Vellore,SpiceJet,SP752,3448,2h 30m
+Jaipur,Vellore,Go First,GO795,2834,2h 00m
+Jaipur,Vellore,AirAsia,AI845,4021,2h 15m
+Jaipur,Kolkata,AirAsia,AI404,3076,1h 45m
+Jaipur,Kolkata,SpiceJet,SP176,3794,1h 30m
+Jaipur,Kolkata,Go First,GO714,4500,2h 15m
+Jaipur,Udaipur,Go First,GO324,3708,1h 30m
+Jaipur,Udaipur,IndiGo,IN931,3488,2h 15m
+Jaipur,Udaipur,Air India,AI655,3235,1h 30m

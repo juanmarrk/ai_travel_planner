@@ -1,0 +1,46 @@
+City,Hotel Name,Location,Price/Night (INR),Review,Free Wi-Fi,Breakfast Included,Gym,Swimming Pool,Restaurant,Spa,Airport Shuttle,AC,Review Stars
+Mumbai,Hotel MUM1,Mumbai Area 1,1000,Excellent stay!,1,1,0,0,1,1,0,1,5
+Mumbai,Hotel MUM2,Mumbai Area 2,3000,Luxurious experience,1,0,1,0,0,1,1,1,3
+Mumbai,Hotel MUM3,Mumbai Area 3,5000,Value for money,1,1,0,1,1,0,0,1,3
+Mumbai,Hotel MUM4,Mumbai Area 4,8000,Very comfortable,1,1,0,0,1,1,0,1,4
+Mumbai,Hotel MUM5,Mumbai Area 5,15000,Very comfortable,1,0,1,1,1,1,1,0,4
+Delhi,Hotel DEL1,Delhi Area 1,1000,Luxurious experience,0,0,1,0,1,0,0,1,3
+Delhi,Hotel DEL2,Delhi Area 2,3000,Excellent stay!,0,1,0,0,1,1,1,0,5
+Delhi,Hotel DEL3,Delhi Area 3,5000,Value for money,1,1,1,1,0,0,1,1,3
+Delhi,Hotel DEL4,Delhi Area 4,8000,Value for money,1,0,1,0,0,0,1,1,3
+Delhi,Hotel DEL5,Delhi Area 5,15000,Luxurious experience,0,1,1,1,0,1,0,1,3
+Bangalore,Hotel BAN1,Bangalore Area 1,1000,Very comfortable,0,1,1,0,1,1,1,0,4
+Bangalore,Hotel BAN2,Bangalore Area 2,3000,Great service,0,1,0,1,1,0,0,0,5
+Bangalore,Hotel BAN3,Bangalore Area 3,5000,Excellent stay!,1,0,0,0,0,1,1,0,5
+Bangalore,Hotel BAN4,Bangalore Area 4,8000,Great service,0,0,1,1,1,0,1,1,5
+Bangalore,Hotel BAN5,Bangalore Area 5,15000,Great service,0,1,0,1,1,0,1,1,5
+Chennai,Hotel CHE1,Chennai Area 1,1000,Excellent stay!,0,1,0,1,1,0,0,1,5
+Chennai,Hotel CHE2,Chennai Area 2,3000,Excellent stay!,0,1,0,1,0,0,0,1,5
+Chennai,Hotel CHE3,Chennai Area 3,5000,Very comfortable,0,0,1,1,1,0,0,0,4
+Chennai,Hotel CHE4,Chennai Area 4,8000,Great service,1,0,1,1,0,0,0,0,5
+Chennai,Hotel CHE5,Chennai Area 5,15000,Excellent stay!,0,0,1,1,1,0,0,0,5
+Indore,Hotel IND1,Indore Area 1,1000,Very comfortable,1,1,1,0,1,0,0,1,4
+Indore,Hotel IND2,Indore Area 2,3000,Great service,0,1,1,0,1,1,1,0,5
+Indore,Hotel IND3,Indore Area 3,5000,Value for money,0,0,1,0,1,1,1,0,3
+Indore,Hotel IND4,Indore Area 4,8000,Excellent stay!,1,1,0,0,1,1,0,1,5
+Indore,Hotel IND5,Indore Area 5,15000,Luxurious experience,1,0,1,1,0,0,1,0,3
+Vellore,Hotel VEL1,Vellore Area 1,1000,Very comfortable,0,1,0,1,1,1,1,1,4
+Vellore,Hotel VEL2,Vellore Area 2,3000,Great service,0,0,1,0,0,0,1,1,5
+Vellore,Hotel VEL3,Vellore Area 3,5000,Value for money,0,1,1,1,1,1,0,0,3
+Vellore,Hotel VEL4,Vellore Area 4,8000,Value for money,1,1,1,1,0,1,1,0,3
+Vellore,Hotel VEL5,Vellore Area 5,15000,Excellent stay!,1,0,1,0,1,1,1,0,5
+Kolkata,Hotel KOL1,Kolkata Area 1,1000,Luxurious experience,0,0,1,0,0,1,1,0,3
+Kolkata,Hotel KOL2,Kolkata Area 2,3000,Great service,0,0,1,1,0,1,1,1,5
+Kolkata,Hotel KOL3,Kolkata Area 3,5000,Great service,0,0,1,0,1,0,1,1,5
+Kolkata,Hotel KOL4,Kolkata Area 4,8000,Luxurious experience,0,0,1,0,1,1,0,0,3
+Kolkata,Hotel KOL5,Kolkata Area 5,15000,Very comfortable,0,0,0,1,0,1,1,1,4
+Udaipur,Hotel UDA1,Udaipur Area 1,1000,Excellent stay!,0,1,0,1,0,1,1,1,5
+Udaipur,Hotel UDA2,Udaipur Area 2,3000,Very comfortable,0,1,0,0,0,1,0,1,4
+Udaipur,Hotel UDA3,Udaipur Area 3,5000,Great service,0,0,0,1,1,1,0,1,5
+Udaipur,Hotel UDA4,Udaipur Area 4,8000,Value for money,1,1,0,0,1,1,1,1,3
+Udaipur,Hotel UDA5,Udaipur Area 5,15000,Luxurious experience,1,1,0,1,0,1,1,1,3
+Jaipur,Hotel JAI1,Jaipur Area 1,1000,Excellent stay!,1,0,1,1,1,0,1,0,5
+Jaipur,Hotel JAI2,Jaipur Area 2,3000,Great service,0,1,1,0,1,1,0,1,5
+Jaipur,Hotel JAI3,Jaipur Area 3,5000,Value for money,1,1,0,1,0,1,0,0,3
+Jaipur,Hotel JAI4,Jaipur Area 4,8000,Great service,1,0,0,1,0,0,0,1,5
+Jaipur,Hotel JAI5,Jaipur Area 5,15000,Great service,0,0,1,1,0,1,0,0,5
